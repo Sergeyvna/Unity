@@ -1,4 +1,4 @@
-#Ball The Breaker
+# Ball The Breaker
 Ball The Breaker is an infinite level 2D block breaking game.
 
 - Randomly generated levels
@@ -8,6 +8,6 @@ Main Controls:
   - Mouse to move paddle
   - Left mouse click to shoot the ball
 
-#Screenshots
+# Screenshots
 ![](https://github.com/Sergeyvna/demo-repo/blob/main/1.PNG)
 ![](https://github.com/Sergeyvna/demo-repo/blob/main/2.PNG)
