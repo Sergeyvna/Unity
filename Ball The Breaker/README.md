@@ -7,4 +7,6 @@ Main Controls:
   - Mouse to move paddle
   - Left mouse click to shoot the ball
 
-![](https://github.com/Sergeyvna/demo-repo/blob/main/1.PNG)
+![Screenshots](https://github.com/Sergeyvna/demo-repo/blob/main/1.PNG)
+
+![](https://github.com/Sergeyvna/demo-repo/blob/main/2.PNG)
