@@ -1,0 +1,8 @@
+Ball The Breaker is an infinite level 2D block breaking game.
+
+- Randomly generated levels
+- Highscore counter
+
+Main Controls:
+  - Mouse to move paddle
+  - Left mouse click to shoot the ball
